@@ -6,4 +6,4 @@ AS4<img width="284" alt="Screenshot 2023-08-29 103821" src="https://github.com/L
 
 AS5<img width="343" alt="Screenshot 2023-08-29 103911" src="https://github.com/LINHTRAN9x/AssigmentSQL/assets/133183567/cae8ffb3-424d-409d-8b8d-864fdb39afd6">
 
-AS6<img width="486" alt="Screenshot 2023-08-29 112421" src="https://github.com/LINHTRAN9x/AssigmentSQL/assets/133183567/fd6ea933-d843-401d-b363-723b651fcfe6">
+AS6<img width="461" alt="Screenshot 2023-08-29 120817" src="https://github.com/LINHTRAN9x/AssigmentSQL/assets/133183567/3f250533-5625-4cf6-8ae1-6d9655d1a6f1">
